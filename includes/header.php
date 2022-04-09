@@ -1,11 +1,11 @@
 <header class="main-header" style="background:#ffffff ;">
         
     
-        <nav class="navbar navbar-static-top" style="background-color: red;" >
+        <nav class="navbar navbar-static-top"  >
 
-            <div class="navbar-top">
+            <div class="navbar-top"style="background-color: darkred;">
 
-              <div class="container">
+              <div class="container" >
                   <div class="row">
 
                     <div class="col-sm-6 col-xs-12">

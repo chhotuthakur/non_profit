@@ -1,8 +1,8 @@
 <nav class="navbar navbar-static-top" style="background: white;" >
 
-            <div class="navbar-top" style="background-color: red;">
+            <div class="navbar-top" >
 
-              <div class="container-fluid" style="background-color: red;">
+              <div class="container-fluid" style="background-color: darkred;" >
                   <div class="row">
 
                     <div class="col-sm-6 col-xs-12">

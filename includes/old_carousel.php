@@ -13,7 +13,7 @@
 
             <div class="item active">
 
-              <img src="assets/images/slider/home-slider-1.jpg" alt="">
+              <img src="assets/images/slider/slider-1.jpeg" alt="">
 
               <div class="container">
 
@@ -32,7 +32,7 @@
 
             <div class="item ">
 
-              <img src="assets/images/slider/home-slider-2.jpg" alt="">
+              <img src="assets/images/slider/slider-2.jpeg" alt="">
 
               <div class="container">
 
@@ -53,7 +53,7 @@
 
             <div class="item ">
 
-              <img src="assets/images/slider/home-slider-3.jpg" alt="">
+              <img src="assets/images/slider/slider-3.jpeg" alt="">
 
               <div class="container">
 

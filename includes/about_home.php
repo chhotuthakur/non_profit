@@ -1,12 +1,12 @@
 <div class="section-home about-us fadeIn animated">
 
-        <div class="container">
+        <div class="container" style="background-color: darkred;">
 
             <div class="row">
 
-                <div class="col-md-3 col-sm-6">
+                <div class="col-md-3 col-sm-6" style="background-color: darkred;">
                 
-                  <div class="about-us-col">
+                  <div class="about-us-col" style="background-color: darkred;">
 
                         <div class="col-icon-wrapper">
                           <img src="assets/images/icons/our-mission-icon.png" alt="">
@@ -14,30 +14,34 @@
                         <h3 class="col-title">Social</h3>
                         <div class="col-details">
 
-                          <p>Lorem ipsum dolor sit amet consect adipisscin elit proin vel lectus ut eta esami vera dolor sit amet consect</p>
+                          <p><ul>
+                            <li>To work for world peace and human rights, trust will run diffrent missions for worlds peace, Atrocity prevention and human rights</li>
+                          </ul></p>
                           
                         </div>
-                        <a href="#" class="btn btn-primary"> Read more </a>
+                        <a href="about.php" class="btn btn-primary"> Read more </a>
                     
                   </div>
                   
                 </div>
 
 
-                <div class="col-md-3 col-sm-6">
+                <div class="col-md-3 col-sm-6" style="background-color: darkred;">
                 
-                  <div class="about-us-col">
+                  <div class="about-us-col" >
 
-                        <div class="col-icon-wrapper">
-                          <img src="assets/images/icons/make-donation-icon.png" alt="">
+                        <div class="col-icon-wrapper" >
+                        <img src="assets/images/icons/make-donation-icon.png" alt="">
                         </div>
-                        <h3 class="col-title">Make donations</h3>
+                        <h3 class="col-title">Education</h3>
                         <div class="col-details">
 
-                          <p>Lorem ipsum dolor sit amet consect adipisscin elit proin vel lectus ut eta esami vera dolor sit amet consect</p>
+                        <p><ul>
+                            <li>To promote , establish , run , develop and manage schools , colleges, technical institutions libraries and coaching centers etc </li>
+                          </ul></p>
                           
                         </div>
-                        <a href="#" class="btn btn-primary"> Read more </a>
+                        <a href="about.php" class="btn btn-primary"> Read more </a>
                     
                   </div>
                   
@@ -51,13 +55,15 @@
                         <div class="col-icon-wrapper">
                           <img src="assets/images/icons/help-icon.png" alt="">
                         </div>
-                        <h3 class="col-title">Help & support</h3>
+                        <h3 class="col-title">Environment</h3>
                         <div class="col-details">
 
-                          <p>Lorem ipsum dolor sit amet consect adipisscin elit proin vel lectus ut eta esami vera dolor sit amet consect</p>
+                        <p><ul>
+                            <li>To Work for Environmental awareness, sustainable, development and participative management of local natural resources for vilage level development</li>
+                          </ul></p>
                           
                         </div>
-                        <a href="#" class="btn btn-primary"> Read more </a>
+                        <a href="about.php" class="btn btn-primary"> Read more </a>
                     
                   </div>
                   
@@ -71,18 +77,21 @@
                         <div class="col-icon-wrapper">
                           <img src="assets/images/icons/programs-icon.png" alt="">
                         </div>
-                        <h3 class="col-title">our programs</h3>
+                        <h3 class="col-title">Health</h3>
                         <div class="col-details">
 
-                          <p>Lorem ipsum dolor sit amet consect adipisscin elit proin vel lectus ut eta esami vera dolor sit amet consect</p>
+                        <p><ul>
+                            <li>To promote establish run develop and manage hospitals medical colleges research instituions counselling centers dispensaries etc.</li>
+                          </ul></p>
                           
                         </div>
-                        <a href="#" class="btn btn-primary"> Read more </a>
+                        <a href="about.php" class="btn btn-primary"> Read more </a>
                     
                   </div>
                   
                 </div>
-                
+             
+
 
                 
             </div>
