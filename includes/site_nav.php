@@ -10,7 +10,7 @@
                         <ul class="list-unstyled list-inline header-contact">
                             <li> <img src="assets/images/logo.png" width="75px" height="auto" mb-2> <a href="index.php"></a> </li>
                              <li></i><h3> <a href="index.php">JAI SHRI RADHEY KRISHAN FOUNDATION</a></h3>
-                            <br><h6>Sabke Sath</h6> </li>
+                            </li>
                        </ul> <!-- /.header-contact  -->
                       
                     </div>
