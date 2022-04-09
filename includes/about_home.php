@@ -11,7 +11,7 @@
                         <div class="col-icon-wrapper">
                           <img src="assets/images/icons/our-mission-icon.png" alt="">
                         </div>
-                        <h3 class="col-title">our mission</h3>
+                        <h3 class="col-title">Social</h3>
                         <div class="col-details">
 
                           <p>Lorem ipsum dolor sit amet consect adipisscin elit proin vel lectus ut eta esami vera dolor sit amet consect</p>

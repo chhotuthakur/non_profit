@@ -32,7 +32,7 @@
 
 
    <?php include 'includes/header.php'?>
-   <?php include 'includes/new_slider.php'?>
+   <?php include 'includes/old_carousel.php'?>
    <?php include 'includes/about_home.php'?>
 
 
