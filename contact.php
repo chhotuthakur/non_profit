@@ -25,98 +25,13 @@
 
     </head>
     <body>
-    <!-- NAVBAR
-    ================================================== -->
-
-    <header class="main-header">
-        
-    
-        <nav class="navbar navbar-static-top">
-
-            <div class="navbar-top">
-
-              <div class="container">
-                  <div class="row">
-
-                    <div class="col-sm-6 col-xs-12">
-
-                        <ul class="list-unstyled list-inline header-contact">
-                            <li> <i class="fa fa-phone"></i> <a href="tel:">+212 658 986 213 </a> </li>
-                             <li> <i class="fa fa-envelope"></i> <a href="mailto:contact@sadaka.org">contact@sadaka.org</a> </li>
-                       </ul> <!-- /.header-contact  -->
-                      
-                    </div>
-
-                    <div class="col-sm-6 col-xs-12 text-right">
-
-                        <ul class="list-unstyled list-inline header-social">
-
-                            <li> <a href="#" target="_blank"> <i class="fa fa-facebook"></i> </a> </li>
-                            <li> <a href="#" target="_blank"> <i class="fa fa-twitter"></i>  </a> </li>
-                            <li> <a href="#" target="_blank"> <i class="fa fa-google"></i>  </a> </li>
-                            <li> <a href="#" target="_blank"> <i class="fa fa-youtube"></i>  </a> </li>
-                            <li> <a href="#" target="_blank"> <i class="fa fa fa-pinterest-p"></i>  </a> </li>
-
-                       </ul> <!-- /.header-social  -->
-                      
-                    </div>
+    <?php include 'includes/site_nav.php'?>
 
 
-                  </div>
-              </div>
-
-            </div>
-
-            <div class="navbar-main">
-              
-              <div class="container">
-
-                <div class="navbar-header">
-                  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-
-                  </button>
-                  
-                  <a class="navbar-brand" href="index.html"><img src="assets/images/sadaka-logo.png" alt=""></a>
-                  
-                </div>
-
-                <div id="navbar" class="navbar-collapse collapse pull-right">
-
-                  <ul class="nav navbar-nav">
-
-                    <li><a href="index.html">HOME</a></li>
-                    <li><a href="about.html">ABOUT</a></li>
-                    <li class="has-child"><a href="#">CAUSES</a>
-
-                      <ul class="submenu">
-                         <li class="submenu-item"><a href="causes.html">Causes list </a></li>
-                         <li class="submenu-item"><a href="causes-single.html">Single cause </a></li>
-                         <li class="submenu-item"><a href="causes-single.html">Single cause </a></li>
-                         <li class="submenu-item"><a href="causes-single.html">Single cause </a></li>
-                      </ul>
-
-                    </li>
-                    <li><a href="gallery.html">GALLERY</a></li>
-                    <li><a class="is-active"  href="contact.html">CONTACT</a></li>
-
-                  </ul>
-
-                </div> <!-- /#navbar -->
-
-              </div> <!-- /.container -->
-              
-            </div> <!-- /.navbar-main -->
-
-
-        </nav> 
-
-    </header> <!-- /. main-header -->
-
+   <?php include 'includes/header.php'?>
+  <!--  ?php include 'includes/new_slider.php'?>
+   ?php include 'includes/about_home.php'
+ -->
 
 	<div class="page-heading text-center">
 
@@ -124,7 +39,7 @@
 			
 			<h1 class="page-title">CONTACT US <span class="title-under"></span></h1>
 			<p class="page-description">
-				Lorem ipsum dolor sit amet, consectetur adipisicing elit Necessitatibus.
+				
 			</p>
 			
 		</div>
@@ -139,7 +54,7 @@
 
 				<div class="col-md-7 col-sm-12 col-form">
 
-					<h2 class="title-style-2">CONTACT FORM <span class="title-under"></span></h2>
+					<h2 class="title-style-2">WRITE US <span class="title-under"></span></h2>
 
 					<form action="php/mail.php" class="contact-form ajax-form">
 
@@ -183,18 +98,18 @@
 
 				<div class="col-md-4 col-md-offset-1 col-contact">
 
-					<h2 class="title-style-2"> SADAKA CONTACTS <span class="title-under"></span></h2>
+					<h2 class="title-style-2"> get in touch <span class="title-under"></span></h2>
 					<p>
-						<b>Sadaka</b> ipsum dolor sit amet, consectetur adipiscing elit. Ut at eros rutrum turpis viverra elementum semper quis ex. Donec lorem nulla .
+						<!-- <b>Sadaka</b> ipsum dolor sit amet, consectetur adipiscing elit. Ut at eros rutrum turpis viverra elementum semper quis ex. Donec lorem nulla . -->
 					</p>
 
 					<div class="contact-items">
 
 						<ul class="list-unstyled contact-items-list">
-							<li class="contact-item"> <span class="contact-icon"> <i class="fa fa-map-marker"></i></span> 135 Hay el nahda, Rabat, Morocco</li>
-							<li class="contact-item"> <span class="contact-icon"> <i class="fa fa-phone"></i></span> 00 210 25 55  55 11</li>
+							<li class="contact-item"> <span class="contact-icon"> <i class="fa fa-map-marker"></i></span> WARD NO. 15 , <br>COLLEGE/GOPALPUR ROAD, <br>JAISINGHNAGAR, SHAHDOL ,<br> MP 484771</li>
+							<li class="contact-item"> <span class="contact-icon"> <i class="fa fa-phone"></i></span> +91 9806965660</li>
 
-							<li class="contact-item"> <span class="contact-icon"> <i class="fa fa-envelope"></i></span> contact@sadaka.org</li>
+							<li class="contact-item"> <span class="contact-icon"> <i class="fa fa-envelope"></i></span> contact@jsrkf.org</li>
 						</ul>
 					</div>
 

@@ -1,7 +1,7 @@
-<header class="main-header" style="background:#00ffcc ;">
+<header class="main-header" style="background:#ffffff ;">
         
     
-        <nav class="navbar navbar-static-top" >
+        <nav class="navbar navbar-static-top" style="background-color: red;" >
 
             <div class="navbar-top">
 
@@ -11,8 +11,8 @@
                     <div class="col-sm-6 col-xs-12">
 
                         <ul class="list-unstyled list-inline header-contact">
-                            <li> <i class="fa fa-phone"></i> <a href="tel:">+212 658 986 213 </a> </li>
-                             <li> <i class="fa fa-envelope"></i> <a href="mailto:contact@sadaka.org">contact@sadaka.org</a> </li>
+                            <li> <i class="fa fa-phone"></i> <a href="tel:">+919806965660, +91 9754039875 </a> </li>
+                             <li> <i class="fa fa-envelope"></i> <a href="mailto:contact@jsrkf.org">contact@jsrkf.org</a> </li>
                        </ul> <!-- /.header-contact  -->
                       
                     </div>
@@ -50,7 +50,7 @@
 
                   </button>
                   
-                  <a class="navbar-brand" href="index.html"><img src="assets/images/sadaka-logo.png" alt=""></a>
+                 <!--  <a class="navbar-brand" href="index.php"><img src="assets/images/sadaka-logo.png" alt=""></a> -->
                   
                 </div>
 
@@ -58,20 +58,20 @@
 
                   <ul class="nav navbar-nav">
 
-                    <li><a class="is-active" href="index.html">HOME</a></li>
-                    <li><a href="about.html">ABOUT</a></li>
-                    <li class="has-child"><a href="#">CAUSES</a>
+                    <li><a class="is-active" href="index.php">HOME</a></li>
+                    <li><a href="about.php">ABOUT</a></li>
+                   <!--  <li class="has-child"><a href="#">CAUSES</a>
 
                       <ul class="submenu">
                          <li class="submenu-item"><a href="causes.html">Causes list </a></li>
                          <li class="submenu-item"><a href="causes-single.html">Single cause </a></li>
                          <li class="submenu-item"><a href="causes-single.html">Single cause </a></li>
                          <li class="submenu-item"><a href="causes-single.html">Single cause </a></li>
-                      </ul>
+                      </ul> -->
 
                     </li>
-                    <li><a href="gallery.html">GALLERY</a></li>
-                    <li><a href="contact.html">CONTACT</a></li>
+                    <li><a href="gallery.php">GALLERY</a></li>
+                    <li><a href="contact.php">CONTACT</a></li>
 
                   </ul>
 

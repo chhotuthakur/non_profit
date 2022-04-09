@@ -1,4 +1,4 @@
-<nav class="navbar navbar-static-top" style="background: red;" >
+<nav class="navbar navbar-static-top" style="background: white;" >
 
             <div class="navbar-top" style="background-color: red;">
 
@@ -8,8 +8,8 @@
                     <div class="col-sm-6 col-xs-12">
 
                         <ul class="list-unstyled list-inline header-contact">
-                            <li> <img src="assets/images/logo.png" width="75px" height="auto"> <a href="index.php"></a> </li>
-                             <li></i><h4> <a href="index.php">JAI SHRI RADHEY KRISHAN FOUNDATION</a></h4> </li>
+                            <li> <img src="assets/images/logo.png" width="75px" height="auto" mb-2> <a href="index.php"></a> </li>
+                             <li></i><h3> <a href="index.php">JAI SHRI RADHEY KRISHAN FOUNDATION</a></h3> </li>
                        </ul> <!-- /.header-contact  -->
                       
                     </div>
@@ -18,7 +18,7 @@
 
                         <ul class="list-unstyled list-inline header-social">
 
-                        <p>REGD. NO. 123456</p>
+                        <h6>REGD. NO. 3467/2021-22/04</h6>
 
                             <!-- <li> <a href="#"> <i class="fa fa-facebook"></i> </a> </li>
                             <li> <a href="#"> <i class="fa fa-twitter"></i>  </a> </li>
