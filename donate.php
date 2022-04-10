@@ -37,7 +37,7 @@
 
 		<div class="container zoomIn animated">
 			
-			<h1 class="page-title">CONTACT US <span class="title-under"></span></h1>
+			<h1 class="page-title">Donate <span class="title-under"></span></h1>
 			<p class="page-description">
 				
 			</p>
@@ -67,7 +67,12 @@
 	                         <div class="form-group col-md-6">
 	                            <input type="email" name="email" class="form-control" placeholder="E-mail*" required>
 	                        </div>
-							
+                            <div class="form-group col-md-6">
+	                            <input type="amount" name="amount" class="form-control" placeholder="Amount*" required>
+	                        </div>
+                            <div class="form-group col-md-6">
+	                            <input type="number" name="number" class="form-control" placeholder="Contact Number*" required>
+	                        </div>
 						</div>
 
                         <div class="form-group">
@@ -88,7 +93,7 @@
                         </div>	
 
                          <div class="form-group">
-                            <button type="submit" class="btn btn-primary pull-right">Donate</button>
+                            <button type="submit" class="btn btn-primary pull-right donate-button">Donate</button>
                         </div>
 
                         <div class="clearfix"></div>
