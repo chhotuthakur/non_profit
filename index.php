@@ -23,6 +23,7 @@
         
         <!-- Modernizr -->
         <script src="assets/js/modernizr-2.6.2.min.js"></script>
+        
 
 
     </head>
@@ -41,7 +42,7 @@
 
     
     
-    <div class="section-home our-sponsors animate-onscroll fadeIn">
+   <!--  <div class="section-home our-sponsors animate-onscroll fadeIn">
     
         <div class="container">
 
@@ -65,10 +66,10 @@
 
         </div>
 
-    </div> <!-- /.our-sponsors -->
+    </div>  /.our-sponsors 
 
 
-    
+     -->
 
 
    <?php include 'includes/footer.php'?>

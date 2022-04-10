@@ -110,23 +110,23 @@
 
                     <div class="reasons-col animate-onscroll fadeIn">
 
-                        <img src="assets/images/reasons/we-fight-togother.jpg" alt="">
+                        <img src="assets/images/reasons/4190150.jpg" alt="">
 
                         <div class="reasons-titles">
 
-                            <h3 class="reasons-title">We fight together</h3>
-                            <h5 class="reason-subtitle">We are humans</h5>
+                            <h3 class="reasons-title">We Learn Together</h3>
+                            <h5 class="reason-subtitle"></h5>
                             
                         </div>
 
                         <div class="on-hover hidden-xs">
                             
-                                <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur praesentium, itaque facilis nesciunt ab omnis cumque similique ipsa veritatis perspiciatis, harum ad at nihil molestias, dignissimos sint consequuntur. Officia, fuga.</p>
+                                <p> we ary trying to desseminate information and knowledge , to editt, publish and print literature and documnets and to organize seminares /conferences/meetings etc.</p>
 
 
-                                <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur praesentium, itaque facilis nesciunt ab omnis cumque similique ipsa veritatis perspiciatis, harum ad at nihil molestias, dignissimos sint consequuntur. Officia, fuga.</p>
+                                <p> using seminars/lectures and workshops we are trying to help and strengthen the character and skill building procces among peoples.
 
-                                <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur praesentium, itaque facilis nesciunt ab omnis cumque similique ipsa veritatis perspiciatis, harum ad at nihil molestias, dignissimos sint consequuntur. Officia, fuga.</p>
+                                <!-- <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur praesentium, itaque facilis nesciunt ab omnis cumque similique ipsa veritatis perspiciatis, harum ad at nihil molestias, dignissimos sint consequuntur. Officia, fuga.</p> -->
                                 
                         </div>
                     </div>
@@ -138,23 +138,23 @@
 
                     <div class="reasons-col animate-onscroll fadeIn">
 
-                        <img src="assets/images/reasons/we-care-about.jpg" alt="">
+                        <img src="assets/images/reasons/8061177.jpg" alt="">
 
                         <div class="reasons-titles">
 
-                            <h3 class="reasons-title">WE care about others</h3>
-                            <h5 class="reason-subtitle">We are humans</h5>
+                            <h3 class="reasons-title">WE care about Nature</h3>
+                            <h5 class="reason-subtitle"></h5>
                             
                         </div>
 
                         <div class="on-hover hidden-xs">
                             
-                                <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur praesentium, itaque facilis nesciunt ab omnis cumque similique ipsa veritatis perspiciatis, harum ad at nihil molestias, dignissimos sint consequuntur. Officia, fuga.</p>
+                                <p> we are here to unsure environmental sustainbility , ecological balance , production of flora and fauna, agro forestry conservation of natural resources.</p>
 
 
-                                <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur praesentium, itaque facilis nesciunt ab omnis cumque similique ipsa veritatis perspiciatis, harum ad at nihil molestias, dignissimos sint consequuntur. Officia, fuga.</p>
+                                <p> WE are awaring peoples about disastre management and to help up victims of natural disasters like , floods, earthquake, Tsunami,wildfire, wind storm, cyclone etc.</p>
 
-                                <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur praesentium, itaque facilis nesciunt ab omnis cumque similique ipsa veritatis perspiciatis, harum ad at nihil molestias, dignissimos sint consequuntur. Officia, fuga.</p>
+                                <!-- <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur praesentium, itaque facilis nesciunt ab omnis cumque similique ipsa veritatis perspiciatis, harum ad at nihil molestias, dignissimos sint consequuntur. Officia, fuga.</p> -->
                                 
                         </div>
 
@@ -173,7 +173,7 @@
 
     </div> <!-- /.home-reasons -->
 
-    <div class="section-home our-causes animate-onscroll fadeIn">
+    <!-- <div class="section-home our-causes animate-onscroll fadeIn">
 
         <div class="container">
 
@@ -206,9 +206,10 @@
 
                         
 
-                    </div> <!-- /.cause -->
+                    </div> 
+                     /.cause -->
                     
-                </div> 
+               <!-- </div> 
 
                 <div class="col-md-3 col-sm-6">
 
@@ -235,9 +236,9 @@
 
                         
 
-                    </div> <!-- /.cause -->
+                    </div>  /.cause -->
                     
-                </div>
+                <!---</div>
 
 
                 <div class="col-md-3 col-sm-6">
@@ -265,9 +266,9 @@
 
                         
 
-                    </div> <!-- /.cause -->
+                    </div>  /.cause -->
                     
-                </div>
+               <!--- </div>
 
                 <div class="col-md-3 col-sm-6">
 
@@ -294,7 +295,7 @@
 
                         
 
-                    </div> <!-- /.cause -->
+                    </div>  /.cause 
                     
                 </div>
 
@@ -302,9 +303,8 @@
 
         </div>
         
-    </div> <!-- /.our-causes -->
-
-    
+    </div> /.our-causes -->
+ 
 
 
 

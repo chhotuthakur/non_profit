@@ -72,7 +72,7 @@
                     </li>
                     <li><a href="gallery.php">GALLERY</a></li>
                     <li><a href="contact.php">CONTACT</a></li>
-                    <li><a href="donate.php">DONATE</a></li>
+                    <li><a href="donate.php" class="donate-button">DONATE</a></li>
 
 
                   </ul>
