@@ -18,7 +18,7 @@
                             <div class="footer-content">
 
                                 <p>
-                                    <strong>WE, </strong> Jai Shri Radhe Krishan Foundation is an organization recognized by the Government of India, which has been formed on 21st September 2021 and whose registered office is located in Ward No 15 Gopalpur Road, Jaisinghnagar District Shahdol MP.
+                                    <strong>WE, </strong> Jai Shri Radhe Krishn Foundation is an organization recognized by the Government of India, which has been formed on 21st September 2021 and whose registered office is located in Ward No 15 Gopalpur Road, Jaisinghnagar District Shahdol MP.
                                 </p> 
 
                                 <p>
@@ -132,7 +132,7 @@
         <div class="footer-bottom">
 
             <div class="container text-right">
-            &copy JAI SHRI RADHEY KRISHAN FOUNDATION 2021-22 - developed with &hearts; by <a href="http://nileshsinghdahiya.in" target="_blank">Nilesh Singh Dahiya</a>
+            &copy JAI SHRI RADHEY KRISHN FOUNDATION 2021-22 - developed with &hearts; by <a href="http://nileshsinghdahiya.in" target="_blank">Nilesh Singh Dahiya</a>
             </div>
         </div>
         
