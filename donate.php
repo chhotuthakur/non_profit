@@ -56,46 +56,28 @@
 
 					<h2 class="title-style-2">Donate Using Online Payment <span class="title-under"></span></h2>
 
-					<form action="php/mail.php" class="contact-form ajax-form">
-
-						<div class="row">
-
-							<div class="form-group col-md-6">
-	                            <input type="text" name="name" class="form-control" placeholder="Name*" required>
-	                        </div>
-
-	                         <div class="form-group col-md-6">
-	                            <input type="email" name="email" class="form-control" placeholder="E-mail*" required>
-	                        </div>
-                            <div class="form-group col-md-6">
-	                            <input type="amount" name="amount" class="form-control" placeholder="Amount*" required>
-	                        </div>
-                            <div class="form-group col-md-6">
-	                            <input type="number" name="number" class="form-control" placeholder="Contact Number*" required>
-	                        </div>
-						</div>
-
-                        <div class="form-group">
-                            <textarea name="message" rows="5" class="form-control" placeholder="Message*" required></textarea>
-                        </div>
-                        
-
-                        <div class="form-group alerts">
-                        
-                        	<div class="alert alert-success" role="alert">
-							  
-							</div>
-
-							<div class="alert alert-danger" role="alert">
-							  
-							</div>
-							
-                        </div>	
-
-                         <div class="form-group">
-                            <button type="submit" class="btn btn-primary pull-right donate-button">Donate</button>
-                        </div>
-
+                    <form action="payments/payment-using-paytm/PaytmKit/pgRedirect.php" method="post">
+				<input type="hidden" id="CUST_ID" name="CUST_ID" value="CUST001">
+					<input type="hidden" id="INDUSTRY_TYPE_ID" name="INDUSTRY_TYPE_ID" value="Retail">
+					<input type="hidden"  id="CHANNEL_ID" name="CHANNEL_ID" value="WEB">
+                <div class="form-group">
+					
+					<label>Order ID:</label>
+                    <input type="text" class="form-control" id="ORDER_ID" name="ORDER_ID" size="20" maxlength="20" autocomplete="off" 
+ 
+tabindex="1" value="<?php echo  "ORDER" . rand(10000,99999999)?>">
+                </div>
+               
+                <div class="form-group">
+					<label>Amount to Pay:</label>
+                    <input type="text" class="form-control" id="TXN_AMOUNT" name="TXN_AMOUNT" autocomplete="off" tabindex="5" 
+ 
+value="20">
+                </div>
+                <div class="form-group">
+                    <input type="submit" name="submit" value="CheckOut" class="btn btn-success btn-lg" style="background-color:#0000FF; margin-left: 37%;">
+                </div>
+           
                         <div class="clearfix"></div>
 
 					</form>
