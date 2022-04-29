@@ -18,7 +18,6 @@
 
   </div>
 
-<<<<<<< HEAD
                         <ul class="list-unstyled list-inline header-contact">
                             <li> <img src="assets/images/logo.png" width="75px" height="auto" mb-2> <a href="index.php"></a> </li>
                              <li></i><h3> <a href="index.php">JAI SHRI RADHEY KRISHN FOUNDATION</a></h3>
@@ -32,8 +31,6 @@
                        </ul> <!-- /.header-contact  -->
                       
                     </div>
-=======
->>>>>>> 88c136be4857e6c567b030946902e1071365e605
 
 </nav>
 
