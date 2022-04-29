@@ -11,6 +11,12 @@
                             <li> <img src="assets/images/logo.png" width="75px" height="auto" mb-2> <a href="index.php"></a> </li>
                              <li></i><h3> <a href="index.php">JAI SHRI RADHEY KRISHN FOUNDATION</a></h3>
                             </li>
+                            <li><div class="" style="display: flex; flex-direction: row; text-align:center; "> 
+    <div class="squareleft"></div> 
+    <p class="subtitle">sabke Sath</p>
+    <div class="squareright"></div>
+    </div>
+    </div></li>
                        </ul> <!-- /.header-contact  -->
                       
                     </div>
