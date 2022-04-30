@@ -1,8 +1,28 @@
+<?php include 'config/database.php';
+
+
+
+$sql= "SELECT * FROM site_info";
+$result=mysqli_query($conn,$sql);
+
+
+if (mysqli_num_rows($result) > 0) {
+  
+    
+  while($row = mysqli_fetch_assoc($result)) {
+
+
+
+
+
+
+?>
+
 <!DOCTYPE html>
 <html class="no-js">
     <head>
         <meta charset="utf-8">
-        <title>JAI SHRI RADHEY KRISHAN FOUNDATION</title>
+        <title><?php echo $row['title'];?></title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <!-- Fonts -->
@@ -192,3 +212,4 @@
 
     </body>
 </html>
+<?php }}?>
