@@ -52,7 +52,7 @@
 
 			<div class="row">
 
-				<div class="col-md-7 col-sm-12 col-form">
+				<div class="col-md-5 col-sm-12 col-form">
 
 					<h2 class="title-style-2">Donate Using Online Payment <span class="title-under"></span></h2>
 
@@ -84,7 +84,7 @@ value="20">
 
 				</div>
 
-				<div class="col-md-4 col-md-offset-1 col-contact">
+				<div class="col-md-5 col-md-offset-1 col-contact">
 
 					<h2 class="title-style-2"> Via Bank Transfer <span class="title-under"></span></h2>
 					<p>
@@ -93,9 +93,9 @@ value="20">
 
 					<div class="contact-items">
 
-						<ul class="list-unstyled contact-items-list">
-							<li class="contact-item"> <span class="contact-icon"></span> A/c Holder : JAI SHRI RADHEY KRISHAN FOUNDATION</li>
-							<li class="contact-item"> <span class="contact-icon"> </span> A/c no: </li>
+						<ul class="list-unstyled contact-items-list" style="color: #00ffff;">
+							<li class="contact-item" > <span class="contact-icon"></span> A/c Holder : JAI SHRI RADHEY KRISHAN FOUNDATION</li>
+							<li class="contact-item"> <span class="contact-icon"> </span> A/c no:40683181354 </li>
 
 							<li class="contact-item"> <span class="contact-icon"> </span> IFSC Code : SBIN0005497</li>
                             <li class="contact-item"> <span class="contact-icon"> </span> Branch Name : State Bank of India <br> Branch Jaisinghnagar</li>

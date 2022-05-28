@@ -1,12 +1,12 @@
 <div class="section-home about-us fadeIn animated">
 
-        <div class="container" style="background-color: darkred;">
+        <div class="container" style="background-color: #fff;">
 
             <div class="row">
 
-                <div class="col-md-3 col-sm-6" style="background-color: darkred;">
+                <div class="col-md-3 col-sm-6" style="background-color: #fff;">
                 
-                  <div class="about-us-col" style="background-color: darkred;">
+                  <div class="about-us-col" style="background-color: #fff;">
 
                         <div class="col-icon-wrapper">
                           <img src="assets/images/icons/our-mission-icon.png" alt="">
@@ -26,7 +26,7 @@
                 </div>
 
 
-                <div class="col-md-3 col-sm-6" style="background-color: darkred;">
+                <div class="col-md-3 col-sm-6" style="background-color: #fff">
                 
                   <div class="about-us-col" >
 

@@ -7,15 +7,21 @@
 
 <div class="navbar-top" >
 
-  <div class="container-fluid" style="background-color: darkred;" >
+  <div class="container-fluid" style="background-color: #e60606;" >
       <div class="row">
 
         <div class="col-sm-6 col-xs-12">
 
-            <ul class="list-unstyled list-inline header-contact">
+            <ul class="list-unstyled list-inline header-contact wrap">
                 <li> <img src="assets/images/logo.png" width="75px" height="auto" mb-2> <a href="index.php"></a> </li>
-                 <li></i><h3> <a href="index.php">JAI SHRI RADHEY KRISHN FOUNDATION</a></h3>
-                </li>
+                 <!-- <li></i><h3> <a href="index.php">JAI SHRI RADHEY KRISHN FOUNDATION</a></h3>
+                </li> -->
+
+                <ul class="wrap" style="list-style: none">
+                             <li></i><span class="thepeople" onclick="location='#'">JAI SHRI RADHEY KRISHAN FOUNDATION</span>
+                            </li>
+                            <li><span class="agency" onclick="location='#'"><div class="squareleft" style="vertical-align:middle"></div><h4 class="subtitle" style="vertical-align:middle">Sabke Sath</h4><div class="squareright" style="vertical-align:middle"></div></span></li>
+                            </ul> 
            </ul> <!-- /.header-contact  -->
           
         </div>
@@ -68,7 +74,7 @@
 
 
 
-<!-- <nav class="" style="background-color:darkred;">
+<!-- <nav class="" style="background-color:#e60606;">
 
   <div class="container-fluid">
     <div class="" style="display: flex; justify-content: space-between;">
@@ -88,7 +94,7 @@
 
   </div> -->
 <nav>
- -->                     <!--    <ul class="list-unstyled list-inline header-contact">
+                <!--    <ul class="list-unstyled list-inline header-contact">
                             <li> <img src="assets/images/logo.png" width="75px" height="auto" mb-2> <a href="index.php"></a> </li>
                              <li></i><h3 style=" margin-bottom :0px; color:white; font:bold; "> <a href="index.php">JAI SHRI RADHEY KRISHN FOUNDATION</a></h3>
                             </li>
@@ -112,7 +118,7 @@
 
   <div class="navbar-top">
 
-    <div class="container-fluid" style="background-color: darkred;">
+    <div class="container-fluid" style="background-color: #e60606;">
       <div class="row">
 
         <div class="col" width="18%" style="display: inline-block;">

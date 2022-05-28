@@ -3,7 +3,7 @@
     
         <nav class="navbar navbar-static-top"  >
 
-            <div class="navbar-top"style="background-color: darkred;">
+            <div class="navbar-top"style="background-color: #e60606;">
 
               <div class="container" >
                   <div class="row">
@@ -72,7 +72,7 @@
                     </li>
                     <li><a href="#">GALLERY</a></li>
                     <li><a href="contact.php">CONTACT</a></li>
-                    <li><a href="donate.php" class="donate-button">DONATE</a></li>
+                    <li><a href="donate.php" class="gbutton">DONATE</a></li>
 
 
                   </ul>
