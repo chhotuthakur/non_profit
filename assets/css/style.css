@@ -1159,19 +1159,35 @@ margin-right: 5px;
 @keyframes glowing {
   0% {
     background-color: #a81d05;
-    box-shadow: 0 0 5px #2ba805;
+    box-shadow: 0 0 0px #2ba805;
   }
   50% {
     background-color: #e85b19;
-    box-shadow: 0 0 20px #49e81900;
+    box-shadow: 0 0 0 #49e81900;
   }
   100% {
     background-color: #e93508;
-    box-shadow: 0 0 5px #2ba805;
+    box-shadow: 0 0 0px #2ba805;
   }
 }
 .gbutton {
   animation: glowing 1300ms infinite;
+}
+
+
+.glowbutton {
+  /* animation: glowing 1300ms infinite; */
+  color: #ffffff;
+  background-color: #2d63c8;
+  font-size: 15px;
+  border: 1px solid #2d63c8;
+  border-radius: 18px;
+  padding: 8px 8px;
+  cursor: pointer
+}
+.glowbutton:hover {
+  color: #2d63c8;
+  background-color: #ffffff;
 }
 .wrap {
   display: inline-block;

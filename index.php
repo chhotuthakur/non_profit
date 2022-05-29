@@ -2,7 +2,7 @@
 
 
 
-$sql= "SELECT * FROM site_info";
+$sql= "SELECT * FROM settings";
 $result=mysqli_query($conn,$sql);
 
 
@@ -22,7 +22,7 @@ if (mysqli_num_rows($result) > 0) {
 <html class="no-js">
     <head>
         <meta charset="utf-8">
-        <title><?php echo $row['title'];?></title>
+        <title><?php echo $row['admin.title'];?></title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <!-- Fonts -->

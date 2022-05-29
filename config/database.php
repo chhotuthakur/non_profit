@@ -2,7 +2,7 @@
 $dbhost='localhost';
 $dbuser='root';
 $dbpass='';
-$dbname='jsrkf';
+$dbname='websitedata';
 
 $conn= mysqli_connect($dbhost,$dbuser,$dbpass,$dbname);
 ?>
